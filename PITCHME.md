@@ -1,7 +1,7 @@
 ---
 marp: true
-title: Marp CLI example
-description: Hosting Marp slide deck on the web
+title: TinyMl guide for everyone
+description: 
 theme: uncover
 paginate: true
 _paginate: false
@@ -9,11 +9,11 @@ _paginate: false
 
 ![bg](./assets/gradient.jpg)
 
-# <!--fit--> Marp CLI example
+# <!--fit--> TinyML Guide 
 
 Hosting Marp slide deck on the web
 
-https://github.com/yhatt/marp-cli-example
+https://github.com/degiaaaa/TinyML-Guide
 
 <style scoped>a { color: #eee; }</style>
 
