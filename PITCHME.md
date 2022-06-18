@@ -6,7 +6,6 @@ theme: uncover
 paginate: true
 _paginate: false
 ---
-
 ![bg](./assets/gradient.jpg)
 
 # <!--fit--> TinyML Guide 
@@ -55,6 +54,7 @@ model.fit(xs, ys, epochs=500)
 ---
 Muss noch schauen wie man style einbaut
 ```style 
+
 div.tworows {
   margin-top: 10px;
   column-count: 1;
@@ -72,19 +72,42 @@ div.tworows p.break {
   margin-top: 0;
 }
 ```
+
 ---
-# Tiling can improve the access pattern
+theme: default
+---
 
-<div class="twocols">
+<style scoped>
+table {
+    height: 100%;
+    width: 100%;
+    font-size: 20px;
+    color: red;
+}
+th {
+    color: blue;
+}
+</style>
 
-## LHS Title
-- item
+# Fruit Table -- styled
 
-<p class="break"></p>
+Fruit | Colour | Amount | Cost
+-----|------|:-----:|------:
+Banana | Yellow | 4 | £1.00
+Apple | Red | 2 | £0.60
+Orange | Orange | 10 | £2.50
+Coconut | Brown | 1 | £1.50
 
-![right height:350px](tiling-good-access.png)
-</div>
+---
 
+# Fruit Table -- default
+
+Fruit | Colour | Amount | Cost
+-----|------|:-----:|------:
+Banana | Yellow | 4 | £1.00
+Apple | Red | 2 | £0.60
+Orange | Orange | 10 | £2.50
+Coconut | Brown | 1 | £1.50
 ---
 
 <!-- _backgroundColor: "#123" -->
@@ -135,3 +158,6 @@ div.tworows p.break {
 ### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
 
 https://github.com/yhatt/marp-cli-example
+
+
+
