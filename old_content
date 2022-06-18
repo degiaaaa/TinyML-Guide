@@ -1,0 +1,79 @@
+---
+marp: true
+title: TinyMl guide for everyone
+description: 
+theme: uncover
+paginate: true
+_paginate: false
+---
+
+![bg](./assets/gradient.jpg)
+
+# <!--fit--> TinyML Guide 
+
+How to become a TinyML Engineer
+
+https://github.com/degiaaaa/TinyML-Guide
+
+<style scoped>a { color: #eee; }</style>
+
+<!-- This is presenter note. You can write down notes through HTML comment. -->
+ 
+---
+
+![Marp bg 60%](https://hackster.imgix.net/uploads/attachments/1412130/_AR2Bmqf88G.blob?auto=compress%2Cformat&w=900&h=675&fit=min)
+
+---
+
+<!-- _backgroundColor: "#123" -->
+<!-- _color: "#fff" -->
+
+##### <!--fit--> [Tensorflow Lite](https://www.tensorflow.org/lite/examples) + [MCU like Arduino](https://create.arduino.cc/projecthub/projects/tags/tinyml)
+
+- Project Example
+```php
+<?php
+echo 'Hello World';
+```
+- Bullet two.
+---
+
+![bg right 60%](https://icongr.am/octicons/mark-github.svg)
+
+## **[GitHub Pages](https://github.com/pages)**
+
+#### Ready to write & host your deck!
+
+[![Use this as template h:1.5em](https://img.shields.io/badge/-Use%20this%20as%20template-brightgreen?style=for-the-badge&logo=github)](https://github.com/yhatt/marp-cli-example/generate)
+
+---
+
+![bg right 60%](https://icongr.am/simple/netlify.svg?colored)
+
+## **[Netlify](https://www.netlify.com/)**
+
+#### Ready to write & host your deck!
+
+[![Deploy to Netlify h:1.5em](./assets/netlify-deploy-button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yhatt/marp-cli-example)
+
+---
+
+![bg right 60%](https://icongr.am/simple/zeit.svg)
+
+## **[Vercel](https://vercel.com/)**
+
+#### Ready to write & host your deck!
+
+[![Deploy to Vercel h:1.5em](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yhatt/marp-cli-example)
+
+---
+
+### <!--fit--> :ok_hand:
+
+---
+
+![bg 40% opacity blur](https://avatars1.githubusercontent.com/u/3993388?v=4)
+
+### Created by Yuki Hattori ([@yhatt](https://github.com/yhatt))
+
+https://github.com/yhatt/marp-cli-example
